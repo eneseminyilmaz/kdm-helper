@@ -15,11 +15,3 @@ icon: file-pen
 
 </details>
 
-<details>
-
-<summary></summary>
-
-
-
-</details>
-

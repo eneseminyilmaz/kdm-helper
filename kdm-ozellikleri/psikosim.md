@@ -17,10 +17,3 @@ Sadece üst yönetim kurulu yöneticisine açık olan ekrandır.
 
 </details>
 
-<details>
-
-<summary></summary>
-
-
-
-</details>

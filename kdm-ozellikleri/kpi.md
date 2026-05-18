@@ -25,3 +25,11 @@ Operasyonel verileri tek ekranda toplayarak veri odaklı stratejik kararlar alma
 
 </details>
 
+<details>
+
+<summary>KPI hedeflerinin birim içi dağılımı nasıl yapılır?</summary>
+
+
+
+</details>
+

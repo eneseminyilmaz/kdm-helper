@@ -36,7 +36,7 @@ AI Insight modülü, sunduğu verilerin hassasiyeti ve stratejik önemi nedeniyl
 
 <summary>Bu birimi görüntüleme yetkiniz bulunmamaktadır? hatası alıyorum ,neden?</summary>
 
-**Bu bir sistem hatası değildir**.Şirket hiyerarşisi gereği, yalnızca bulunduğunuz birim ve bu birime bağlı alt birimlerdeki verileri inceleme yetkiniz bulunmaktadır. Üst birimlere ait bilgilere erişim izniniz yoktur. Ancak birim yöneticisi iseniz, kendi biriminize bağlı tüm alt birimleri de inceleme hakkına sahip olursunuz.
+**Bu bir sistem hatası değildir**.Şirket hiyerarşisi gereği, yalnızca bulunduğunuz birim ve bu birime bağlı alt birimlerdeki verileri inceleme yetkiniz bulunmaktadır. Üst birimlere ait bilgilere erişim izniniz yoktur. Ancak birim yöneticisi iseniz, **kendi biriminize bağlı** tüm alt birimleri de inceleme hakkına sahip olursunuz.
 
 </details>
 
@@ -50,7 +50,7 @@ Eğer bu modülün sizin görev tanımınız için gerekli olduğunu düşünüy
 
 <details>
 
-<summary>Pozisyon matrisi görüntülemesi nasıl yapılır?</summary>
+<summary>Birim içi pozisyon matrisi görüntülemesi nasıl yapılır?</summary>
 
 1. **Birim Seçimi:** Sayfanın orta kısmında yer alan "**Birim**" ikonuna (🏢) tıklayın.
 2. **Hiyerarşik Gezinme**: Açılan menü üzerinden:
