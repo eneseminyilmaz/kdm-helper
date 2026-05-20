@@ -11,7 +11,12 @@ icon: gauge-max
 
 <details>
 
-<summary>Üst Birim Yöneticileri Yönetici Etki Puanı Nasıl Kullanır?</summary>
+<summary>Kişi Değerlendirmesi Nasıl Yapılır?</summary>
+
+1. **Otomatik Dönem Kontrolü:** Değerlendirme paneline giriş yaptığınızda,sistem otomatik olarak içinde bulunulan aktif çeyrek dönemini ve yılı seçili olarak getirir.
+2. **Butona Tıklama:** Ekranın sağ tarafında bulunan mavi renkli <kbd>"Kişi Değerlendir"</kbd> butonuna tıklayarak süreci tetikleyin.
+3. **Seç Menüsünü Aktifleştirme:** Ekranın merkezinde yer alan, üzerinde kullanıcı ikonu bulunan geniş <kbd>"Seç"</kbd> açılır menüsüne (dropdown) tıklayın.Değerlendirmek istediğiniz kullanıcıyı seçin.
+4.  Ekrandaki tüm yetkinlik maddelerine eksiksiz şekilde puan girişi yaptıktan sonra, sayfanın sağ alt köşesinde yer alan koyu renkli "Cevapları Gönder" butonuna tıklayarak değerlendirme sürecini başarıyla tamamlayın.
 
 
 
@@ -19,9 +24,19 @@ icon: gauge-max
 
 <details>
 
-<summary>Kişi Değerlendirmesi Nasıl Yapılır?</summary>
+<summary>Yönetici Etki Puanı Nedir?</summary>
 
+Yönetici Etki Puanı; üst birim yöneticilerinin, personelin genel 360 derece değerlendirme skoruna kendi inisiyatiflerini kullanarak doğrudan müdahale edebilmelerini sağlayan stratejik bir kanaat alanıdır.
 
+</details>
+
+<details>
+
+<summary>Üst Birim Yöneticileri Yönetici Etki Puanı Nasıl Kullanır?</summary>
+
+1. **Sonuç Paneline Giriş:** Filtre alanından ilgili dönem ve personel seçildikten sonra "Değerlendirme Sonucu" sekmesine tıklanır. Bu sekmede personelin _Temel_, _Fonksiyonel_, _Yönetsel_, _Yönetici_ ve _Genel_ başarı skorları grafiksel kadranlar üzerinden anlık olarak analiz edilir.
+2. **Kanaat İnisiyatifi Uygulama:** Kadranların hemen altında yer alan -10 ile +10 aralığındaki dinamik kaydırıcı (slider) hattı kullanılır.
+3. **Puan Etkisi:** Üst birim yöneticisi, çalışanın genel performans durumuna göre bu cetveli sağa (pozitif etki) veya sola (negatif etki) kaydırarak personelin nihai başarı puanına doğrudan etki edecek kanaat notunu belirler.
 
 </details>
 
@@ -38,7 +53,7 @@ icon: gauge-max
 <summary>Hiyerarşik Yapıda Kimlerin Hangi Birimleri Değerlendirme Yetkisi Bulunmaktadır?</summary>
 
 * 👤 Standart Personeller: Şirket içi dikey geri bildirim akışını sağlamak amacıyla yalnızca bir üst birimini (doğrudan bağlı oldukları yöneticilerini) ve organizasyon yapısında mevcutsa bir alt birimini (astlarını) değerlendirebilir.
-* 💼 Birim Yöneticileri: \* Kendi ekiplerindeki operasyonel performansı ölçmek adına, doğrudan kendi birimlerine bağlı olarak çalışan tüm personelleri değerlendirme yetkisine sahiptir.
+* 💼 Birim Yöneticileri: Kendi ekiplerindeki operasyonel performansı ölçmek adına, doğrudan kendi birimlerine bağlı olarak çalışan tüm personelleri değerlendirme yetkisine sahiptir.
   * Yönetimsel şeffaflığı ve çift yönlü geri bildirimi desteklemek amacıyla, kendi bağlı oldukları bir üst birim yöneticisini de sistem üzerinden değerlendirebilirler.
 
 </details>
