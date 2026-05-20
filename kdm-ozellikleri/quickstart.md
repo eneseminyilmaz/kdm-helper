@@ -1,5 +1,5 @@
 ---
-description: Platforma giriş yaptığınızda sizi karşılayan ekrandır.
+description: Platforma giriş yaptığınızda sizi karşılayan ilk ekrandır.
 icon: house-heart
 ---
 
@@ -11,7 +11,7 @@ Dashboard ekranındaki tüm kartlar güncel verilerle anlık olarak yenilenir. E
 
 <details>
 
-<summary>Yönetici  anasayfa ekranı nasıl görünüyor?</summary>
+<summary>Yönetici Anasayfa Ekranı Nasıl Görünüyor?</summary>
 
 **Yönetici Ana Sayfası (Dashboard)**; zorunlu eğitimleri, zorunlu sınavları, sisteme kayıtlı kullanıcı sayılarını ve tanımlı görevleri tek bir ekranda görüntülemenizi ve yönetmenizi sağlar.
 
@@ -23,7 +23,7 @@ Dashboard ekranındaki tüm kartlar güncel verilerle anlık olarak yenilenir. E
 
 <details>
 
-<summary>Kullanıcı anasayfa ekranı nasıl görünüyor?</summary>
+<summary>Kullanıcı Anasayfa Ekranı Nasıl Görünüyor?</summary>
 
 **Kullanıcı Ana Sayfası (Dashboard)**; size atanan zorunlu eğitimleri, zorunlu sınavları ve bireysel görevlerinizi tek bir ekrandan takip edip ilgili modüllere hızlıca giriş yapmanızı sağlar.
 

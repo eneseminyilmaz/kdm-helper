@@ -1,5 +1,5 @@
 ---
-description: AI Insight, yapay zeka destekli analiz motoru
+description: AI Insight, yapay zeka destekli analiz motorudur
 icon: user-robot
 ---
 
@@ -19,7 +19,7 @@ AI Insight modülü, sunduğu verilerin hassasiyeti ve stratejik önemi nedeniyl
 
 <details>
 
-<summary>Nasıl Kullanılır?</summary>
+<summary>AI Insight Nasıl Kullanılır?</summary>
 
 1. **AI Insight Modülüne Girin:** Sol menüde yer alan AI Insight sekmesine tıklayın.
 2. **Birim Seçimi:** Sayfanın orta kısmında yer alan "**Birim**" ikonuna (🏢) tıklayın.
@@ -34,7 +34,7 @@ AI Insight modülü, sunduğu verilerin hassasiyeti ve stratejik önemi nedeniyl
 
 <details>
 
-<summary>Bu birimi görüntüleme yetkiniz bulunmamaktadır? hatası alıyorum ,neden?</summary>
+<summary>'Bu Birimi Görüntüleme Yetkiniz Bulunmamaktadır' Hatası Alıyorum, Neden?</summary>
 
 **Bu bir sistem hatası değildir**.Şirket hiyerarşisi gereği, yalnızca bulunduğunuz birim ve bu birime bağlı alt birimlerdeki verileri inceleme yetkiniz bulunmaktadır. Üst birimlere ait bilgilere erişim izniniz yoktur. Ancak birim yöneticisi iseniz, **kendi biriminize bağlı** tüm alt birimleri de inceleme hakkına sahip olursunuz.
 
@@ -42,7 +42,7 @@ AI Insight modülü, sunduğu verilerin hassasiyeti ve stratejik önemi nedeniyl
 
 <details>
 
-<summary>Birim yöneticisi iseniz kendi biriminize erişemiyorsanız</summary>
+<summary>Birim Yöneticisi Olduğunuz Halde Kendi Biriminize Erişemiyorsanız Ne Yapmalısınız?</summary>
 
 Eğer bu modülün sizin görev tanımınız için gerekli olduğunu düşünüyorsanız, ancak sayfaya erişim sağlayamıyorsanız sistemde yetkiniz henüz tanımlanmamış olabilir.
 
@@ -50,7 +50,7 @@ Eğer bu modülün sizin görev tanımınız için gerekli olduğunu düşünüy
 
 <details>
 
-<summary>Birim içi pozisyon matrisi görüntülemesi nasıl yapılır?</summary>
+<summary>Birim İçi Pozisyon Matrisi Görüntülemesi Nasıl Yapılır?</summary>
 
 1. **Birim Seçimi:** Sayfanın orta kısmında yer alan "**Birim**" ikonuna (🏢) tıklayın.
 2. **Hiyerarşik Gezinme**: Açılan menü üzerinden:
