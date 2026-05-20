@@ -61,3 +61,12 @@ Eğer bu modülün sizin görev tanımınız için gerekli olduğunu düşünüy
 3. **Pozisyon Değerlendirmeleri**:Yine aynı açılan menü üzerinden ilgili birimin Pozisyon Matrisini görüntüleyebilir; roller, yetkinlikler ve yapay zeka analizleri arasındaki eşleşmeleri inceleyebilirsiniz.
 
 </details>
+
+<details>
+
+<summary>AI Insight Tarafından Sunulan Haftalık Stratejik Öngörüler Hangi Günler Yenilenir?</summary>
+
+
+
+</details>
+

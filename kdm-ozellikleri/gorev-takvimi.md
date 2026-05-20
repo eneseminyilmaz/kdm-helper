@@ -98,3 +98,11 @@ Kişi bazlı görev atamak isterseniz organizasyon şemasını kulanmalısınız
 &#x20;
 
 </details>
+
+<details>
+
+<summary>Bir Personele Kendi Pozisyon Tanımı Dışında Bir Görev Atanırsa Ne Olur?</summary>
+
+
+
+</details>

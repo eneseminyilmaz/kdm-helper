@@ -11,7 +11,7 @@ icon: gauge-max
 
 <details>
 
-<summary>Üst birim yöneticileri yönetici etki puanı nasıl kullanır?</summary>
+<summary>Üst Birim Yöneticileri Yönetici Etki Puanı Nasıl Kullanır?</summary>
 
 
 
@@ -19,7 +19,7 @@ icon: gauge-max
 
 <details>
 
-<summary>Kişi değerlendirmesi nasıl yapılır?</summary>
+<summary>Kişi Değerlendirmesi Nasıl Yapılır?</summary>
 
 
 
@@ -27,7 +27,7 @@ icon: gauge-max
 
 <details>
 
-<summary>herkes herkesi değerlendirebilri mi?</summary>
+<summary>Herkes Herkesi Değerlendirebilir Mi?</summary>
 
 
 
@@ -35,7 +35,7 @@ icon: gauge-max
 
 <details>
 
-<summary>değerlendirme sonuçları hangi aralıkklarda görüntülenebilir?</summary>
+<summary>Değerlendirme Sonuçları Hangi Aralıklarla Görüntülenebilir?</summary>
 
 
 
@@ -43,7 +43,15 @@ icon: gauge-max
 
 <details>
 
-<summary></summary>
+<summary>Değerlendirme Sonuçları Personel Tarafından Anlık Olarak Görülebilir mi?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Başlatılan Bir Yetkinlik Değerlendirmesi Sonradan Düzenlenebilir mi?</summary>
 
 
 

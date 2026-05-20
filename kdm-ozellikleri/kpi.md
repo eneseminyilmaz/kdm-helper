@@ -1,5 +1,5 @@
 ---
-description: Temel performans göstergesi ekranı.
+description: Temel Performans Göstergeleri (KPI) takip ekranıdır.
 icon: chart-line-up
 ---
 
@@ -7,11 +7,11 @@ icon: chart-line-up
 
 ***
 
-Operasyonel verileri tek ekranda toplayarak veri odaklı stratejik kararlar almanızı sağlayan performans yönetim aracı.
+Stratejik hedeflerinizi ve operasyonel çıktılarınızı anlık olarak izleyip veri odaklı kararlar almanıza olanak tanıyan performans yönetim ekranıdır.
 
 <details>
 
-<summary>KPI atamaları nasıl yapılır?</summary>
+<summary>KPI Atamaları Nasıl Yapılır?</summary>
 
 
 
@@ -19,7 +19,7 @@ Operasyonel verileri tek ekranda toplayarak veri odaklı stratejik kararlar alma
 
 <details>
 
-<summary>KPI görev atamaları sonrası hedefler nasıl güncellenir?</summary>
+<summary>KPI Görev Atamaları Sonrası Hedefler Nasıl Güncellenir?</summary>
 
 
 
@@ -27,7 +27,15 @@ Operasyonel verileri tek ekranda toplayarak veri odaklı stratejik kararlar alma
 
 <details>
 
-<summary>KPI hedeflerinin birim içi dağılımı nasıl yapılır?</summary>
+<summary>KPI Hedeflerinin Birim İçi Dağılımı Nasıl Yapılır?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Dönem Ortasında KPI Hedefleri Değiştirilebilir Mi ya da Silinebilir Mi?</summary>
 
 
 
