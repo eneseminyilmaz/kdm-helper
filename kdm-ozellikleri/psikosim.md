@@ -13,11 +13,7 @@ Sadece en üst düzey yöneticilerin erişebildiği;Üst yönetim tarafından be
 
 <summary>Psikosim Modülü Nasıl Çalışır?</summary>
 
-Psikosim, kurum genelindeki personellerin adaptasyon, bilişsel kapasite, kriz yönetimi ve psikometrik yetkinliklerini ölçümleyen tam otomatik bir simülasyon ve analiz aracıdır.
-
-
-
-Süreç, Üst Yönetimin sistem üzerinden hedef çalışana özel bir simülasyon testi atamasıyla başlar. Personel testi tamamladığı anda, yazılım arka planda hiçbir manuel müdahaleye gerek duymadan çalışanın analitik başarı raporunu otomatik olarak üretir ve doğrudan yöneticinin değerlendirme paneline teslim eder.
+&#x20;Üst Yönetimin sistem üzerinden hedef çalışana özel bir simülasyon testi atamasıyla başlar. Personel testi tamamladığı anda, yazılım arka planda hiçbir manuel müdahaleye gerek duymadan çalışanın analitik başarı raporunu otomatik olarak üretir ve doğrudan yöneticinin değerlendirme paneline teslim eder.
 
 </details>
 
@@ -62,3 +58,10 @@ Süreç gizliliği ve veri güvenliği standartları gereği, atanan simülasyon
 
 </details>
 
+<details>
+
+<summary>Psikosim Test Sonuçları KVKK ve Veri Gizliliği Kapsamında Nasıl Korunur?</summary>
+
+Psikosim modülünde üretilen tüm psikometrik analizler ve yapay zekâ raporları, yüksek güvenlikli şifreleme protokolleri (kriptolama) ile veri tabanında saklanır. Bu verilere Üst Yönetim ve İK adminleri dışında hiçbir departmanın, birim yöneticisinin veya dış kaynakların erişimi teknik olarak imkânsızdır. Tüm süreç yasal KVKK mevzuatlarına %100 uyumlu olarak yürütülür.
+
+</details>

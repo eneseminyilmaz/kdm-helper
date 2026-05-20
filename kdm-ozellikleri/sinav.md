@@ -1,5 +1,5 @@
 ---
-description: Kurum içi sınav ekranı
+description: Kurum içi sınav ekranıdır.
 icon: file-pen
 ---
 

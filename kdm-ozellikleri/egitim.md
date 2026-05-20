@@ -1,5 +1,5 @@
 ---
-description: Kurum içi eğitim ekranı
+description: Kurum içi eğitim ekranıdır.
 icon: graduation-cap
 ---
 
