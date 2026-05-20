@@ -45,15 +45,23 @@ Kişi bazlı görev atamak isterse organizasyon şemasını kulanmalıdır.
 
 <details>
 
-<summary>Görev Filtreleme ve Takvim Görünümleri Nasıl Kullanılır?</summary>
+<summary>Görev Takvimi Geçmişi Nasıl İndirilir?</summary>
 
+1. **Birim Kartını Açın:** Organizasyon Şeması ekranında, işlem yapmak istediğiniz personelin bağlı olduğu birim veya departman kartına tıklayarak detay panelini açın.
+2. **Personel Listesinden Kişiyi Bulun:** Alt kısımdaki _Genel Bilgiler_ alanında yer alan "Personeller" sekmesindeki listeden ilgili çalışanı bulun.
+3. **Kullanıcı Detay Paneline Geçin:** İlgili personelin satırının sağ tarafında bulunan Profil/Detay İkonuna (Kartvizit simgesi 🪪) tıklayın.
+4. **Takvim Sekmesini Açın:** Açılan kullanıcı detay ekranının üst barında yer alan sekmelerden "Takvim" başlığına geçiş yapın.
+5. **Görev Takvimi Geçmişini İndirme:** Eğer personelin bu zamana kadar aldığı görevlerin dökümünü veya raporunu bilgisayarınıza indirmek istiyorsanız, bu sekmede yer alan "Görev takvimi geçmişini indir." alanındaki mavi "📥 İndir" butonuna tıklayın.
+   * Tarih Aralığı Seçimi: Butona bastığınızda karşınıza pop-up bir "Tarih Aralığı" penceresi açılacaktır.
+   * Seç ve İndir: "📅 Seç" alanına tıklayarak raporlamak istediğiniz başlangıç ve bitiş tarihlerini belirleyin, ardından altındaki mavi "İndir" butonuna basarak özel raporunuzu alın.
 
+&#x20;
 
 </details>
 
 <details>
 
-<summary></summary>
+<summary>Görev Filtreleme ve Takvim Görünümleri Nasıl Kullanılır?</summary>
 
 
 

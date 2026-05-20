@@ -1,5 +1,5 @@
 ---
-description: Yetkinlik Yetenek Yönetim ekranı
+description: Yetkinlik Yetenek Yönetim ekranıdır
 icon: gauge-max
 ---
 
