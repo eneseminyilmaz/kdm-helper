@@ -4,7 +4,7 @@
 
 ## KDM Özellikleri
 
-* [Dashboard(Anasayfa)](kdm-ozellikleri/quickstart.md)
+* [Dashboard (Anasayfa)](kdm-ozellikleri/quickstart.md)
 * [AI Insight](kdm-ozellikleri/publish-your-docs.md)
 * [Organizasyon Şeması](kdm-ozellikleri/organizasyon-semasi.md)
 * [Görev Takvimi](kdm-ozellikleri/gorev-takvimi.md)

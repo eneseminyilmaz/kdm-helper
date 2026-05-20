@@ -1,5 +1,5 @@
 ---
-description: Yetkinlik Yetenek Yönetim ekranıdır
+description: Yetkinlik Yetenek Yönetim ekranıdır.
 icon: gauge-max
 ---
 
@@ -34,7 +34,7 @@ Yönetici Etki Puanı; üst birim yöneticilerinin, personelin genel 360 derece 
 
 <summary>Üst Birim Yöneticileri Yönetici Etki Puanı Nasıl Kullanır?</summary>
 
-1. **Sonuç Paneline Giriş:** Filtre alanından ilgili dönem ve personel seçildikten sonra "Değerlendirme Sonucu" sekmesine tıklanır. Bu sekmede personelin _Temel_, _Fonksiyonel_, _Yönetsel_, _Yönetici_ ve _Genel_ başarı skorları grafiksel kadranlar üzerinden anlık olarak analiz edilir.
+1. **Sonuç Paneline Giriş:** Filtre alanından ilgili dönem ve personel seçildikten sonra <kbd>"Değerlendirme Sonucu"</kbd> sekmesine tıklanır. Bu sekmede personelin _Temel_, _Fonksiyonel_, _Yönetsel_, _Yönetici_ ve _Genel_ başarı skorları grafiksel kadranlar üzerinden anlık olarak analiz edilir.
 2. **Kanaat İnisiyatifi Uygulama:** Kadranların hemen altında yer alan -10 ile +10 aralığındaki dinamik kaydırıcı (slider) hattı kullanılır.
 3. **Puan Etkisi:** Üst birim yöneticisi, çalışanın genel performans durumuna göre bu cetveli sağa (pozitif etki) veya sola (negatif etki) kaydırarak personelin nihai başarı puanına doğrudan etki edecek kanaat notunu belirler.
 
@@ -42,7 +42,7 @@ Yönetici Etki Puanı; üst birim yöneticilerinin, personelin genel 360 derece 
 
 <details>
 
-<summary>Herkes Herkesi Değerlendirebilir Mi?</summary>
+<summary>Herkes Herkesi Değerlendirebilir mi?</summary>
 
 **Hayır.** Sistem üzerinde herkesin rastgele veya şirket genelindeki herhangi birini değerlendirmesine izin verilmez. Rol karmaşasını önlemek adına süreç tamamen organizasyon şemasına bağlı belirli yetki sınırları dahilinde yürütülür.
 
@@ -50,10 +50,10 @@ Yönetici Etki Puanı; üst birim yöneticilerinin, personelin genel 360 derece 
 
 <details>
 
-<summary>Hiyerarşik Yapıda Kimlerin Hangi Birimleri Değerlendirme Yetkisi Bulunmaktadır?</summary>
+<summary>Hiyerarşik Yapıda Kimlerin Hangi Birimleri Değerlendirme Yetkisi Vardır?</summary>
 
-* 👤 Standart Personeller: Şirket içi dikey geri bildirim akışını sağlamak amacıyla yalnızca bir üst birimini (doğrudan bağlı oldukları yöneticilerini) ve organizasyon yapısında mevcutsa bir alt birimini (astlarını) değerlendirebilir.
-* 💼 Birim Yöneticileri: Kendi ekiplerindeki operasyonel performansı ölçmek adına, doğrudan kendi birimlerine bağlı olarak çalışan tüm personelleri değerlendirme yetkisine sahiptir.
+* 👤 **Standart Personeller:** Şirket içi dikey geri bildirim akışını sağlamak amacıyla yalnızca bir üst birimini (doğrudan bağlı oldukları yöneticilerini) ve organizasyon yapısında mevcutsa bir alt birimini (astlarını) değerlendirebilir.
+* 💼 **Birim Yöneticileri:** Kendi ekiplerindeki operasyonel performansı ölçmek adına, doğrudan kendi birimlerine bağlı olarak çalışan tüm personelleri değerlendirme yetkisine sahiptir.
   * Yönetimsel şeffaflığı ve çift yönlü geri bildirimi desteklemek amacıyla, kendi bağlı oldukları bir üst birim yöneticisini de sistem üzerinden değerlendirebilirler.
 
 </details>
@@ -78,7 +78,23 @@ Yönetici Etki Puanı; üst birim yöneticilerinin, personelin genel 360 derece 
 
 <summary>Tamamlanan Bir Yetkinlik Değerlendirmesi Sonradan Düzenlenebilir mi?</summary>
 
-Sistemde veri bütünlüğünün ve adilliğin korunması adına, "Kişi Değerlendir" ekranı üzerinden puanlamalar yapılıp form onaylandığı ve kaydedildiği an süreç o dönem için kilitlenir.
+Sistemde veri bütünlüğünün ve adilliğin korunması adına, <kbd>"Kişi Değerlendir"</kbd> ekranı üzerinden puanlamalar yapılıp form onaylandığı ve kaydedildiği an süreç o dönem için kilitlenir.
+
+</details>
+
+<details>
+
+<summary>Y.Y.Y Değerlendirmede Verilen Puanlar ve Yorumlar Gizli mi Tutulur?</summary>
+
+**Evet.** KDM platformunda 360 derece geri bildirim süreçleri tamamen anonimlik esasına göre yürütülür. Değerlendirilen personel, kimin kendisine kaç puan verdiğini veya hangi yorumu yaptığını kesinlikle göremez; sistemde veriler sadece departman ortalamaları ve konsolide grafikler olarak listelenir. Puan bütünlüğü siber güvenlik protokolleriyle korunur.
+
+</details>
+
+<details>
+
+<summary>Y.Y.Y Sonuçları Şirket İçi Terfi, Rotasyon veya Kariyer Planlamasında Nasıl Kullanılır?</summary>
+
+Değerlendirme dönemleri kapandıktan sonra sistem, personellerin güçlü yönlerini ve gelişim alanlarını gösteren bir Yetenek Matrisi çıktısı üretir. Bu somut veriler; İnsan Kaynakları ve Üst Yönetim tarafından stratejik yedekleme planlarında, dikey/yatay terfi süreçlerinde ve kişiye özel kurumsal eğitim bütçelerinin planlanmasında doğrudan baz alınır.
 
 </details>
 

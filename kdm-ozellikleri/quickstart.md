@@ -3,11 +3,11 @@ description: Platforma giriş yaptığınızda sizi karşılayan ilk ekrandır.
 icon: house-heart
 ---
 
-# Dashboard(Anasayfa)
+# Dashboard (Anasayfa)
 
 ***
 
-Dashboard ekranındaki tüm kartlar güncel verilerle anlık olarak yenilenir. Eğer size bir görev atandıysa veya yeni bir zorunlu eğitim tanımlandıysa, bu panelde otomatik olarak görünecektir.
+Dashboard ekranındaki tüm kartlar güncel verilerle anlık olarak yenilenir. Eğer size bir görev atandıysa veya yeni bir zorunlu eğitim tanımlandıysa, bu panelde otomatik olarak görülecektir.
 
 <details>
 
@@ -32,5 +32,21 @@ Dashboard ekranındaki tüm kartlar güncel verilerle anlık olarak yenilenir. E
 <figure><img src="../.gitbook/assets/Ekran Resmi 2026-05-08 14.13.07.png" alt="" width="563"><figcaption></figcaption></figure>
 
 
+
+</details>
+
+<details>
+
+<summary>Dashboard Verileri Hangi Sıklıkla Güncellenir?</summary>
+
+Platform üzerindeki tüm metrikler **anlık ve gerçek zamanlı (real-time)** olarak senkronize edilir. Diğer modüllerde (Sınav, Eğitim) yapılan herhangi bir atama, onay veya revizyon işlemi, sayfa yenilemeye gerek kalmadan ilgili personelin ekranına saniyeler içinde otomatik olarak yansır.
+
+</details>
+
+<details>
+
+<summary>Dashboard Üzerinden Doğrudan Aksiyon Alınabilir mi?</summary>
+
+**Evet.** Dashboard, süreçleri hızlandıran dinamik bir kısayol merkezidir. Panel üzerinde listelenen aktif sınav veya zorunlu eğitim kartlarına tıklandığında, sistem kullanıcıyı menüler arasında dolaştırmadan doğrudan ilgili modülün uygulama sayfasına yönlendirir.
 
 </details>
