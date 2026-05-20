@@ -11,7 +11,7 @@ Dashboard ekranındaki tüm kartlar güncel verilerle anlık olarak yenilenir. E
 
 <details>
 
-<summary>Yönetici Anasayfa Ekranı Nasıl Görünüyor?</summary>
+<summary>Yönetici Anasayfa Ekranı Nasıl Görünür?</summary>
 
 **Yönetici Ana Sayfası (Dashboard)**; zorunlu eğitimleri, zorunlu sınavları, sisteme kayıtlı kullanıcı sayılarını ve tanımlı görevleri tek bir ekranda görüntülemenizi ve yönetmenizi sağlar.
 
@@ -23,7 +23,7 @@ Dashboard ekranındaki tüm kartlar güncel verilerle anlık olarak yenilenir. E
 
 <details>
 
-<summary>Kullanıcı Anasayfa Ekranı Nasıl Görünüyor?</summary>
+<summary>Kullanıcı Anasayfa Ekranı Nasıl Görünür?</summary>
 
 **Kullanıcı Ana Sayfası (Dashboard)**; size atanan zorunlu eğitimleri, zorunlu sınavları ve bireysel görevlerinizi tek bir ekrandan takip edip ilgili modüllere hızlıca giriş yapmanızı sağlar.
 

@@ -27,8 +27,25 @@ icon: gauge-max
 
 <details>
 
+<summary>herkes herkesi değerlendirebilri mi?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>değerlendirme sonuçları hangi aralıkklarda görüntülenebilir?</summary>
+
+
+
+</details>
+
+<details>
+
 <summary></summary>
 
 
 
 </details>
+
