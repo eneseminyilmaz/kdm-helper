@@ -1,6 +1,0 @@
----
-icon: users-line
----
-
-# Kullanıcılar
-

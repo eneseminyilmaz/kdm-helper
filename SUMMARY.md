@@ -16,6 +16,4 @@
 
 ## GENEL ÖZELLİKLER
 
-* [Kişisel bilgiler](genel-ozellikler/markdown.md)
-* [Bildirimler](genel-ozellikler/bildirimler.md)
-* [Kullanıcılar](genel-ozellikler/kullanicilar.md)
+* [Genel Bilgiler](genel-ozellikler/markdown.md)

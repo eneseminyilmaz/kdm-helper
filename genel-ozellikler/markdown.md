@@ -1,26 +1,33 @@
 ---
-icon: user-vneck
+description: Profil,bildirim,kullanıcı bilgileri içeri
+icon: user-group
 ---
 
-# Kişisel bilgiler
+# Genel Bilgiler
 
-GitBook supports many different types of content, and is backed by Markdown — meaning you can copy and paste any existing Markdown files directly into the editor!
+***
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/markdown-hero.png" alt=""><figcaption></figcaption></figure>
+<details>
 
-Feel free to test it out and copy the Markdown below by hovering over the code block in the upper right, and pasting into a new line underneath.
+<summary>Kişisel Bilgiler Alanında Düzenleme veya Güncelleme Yapılabilir mi?</summary>
 
-```markdown
-# Heading
+**Hayır.** Kurumsal veri güvenliği, siber güvenlik protokolleri ve hiyerarşik veri bütünlüğünün korunması amacıyla; çalışanlar bu ekran üzerinden profil resmi dahil olmak üzere hiçbir kişisel bilgisini, iletişim verisini (E-posta, Telefon) veya sistem şifresini kendisi değiştiremez ya da **güncelleyemez.**
 
-This is some paragraph text, with a [link](https://docs.gitbook.com) to our docs. 
+</details>
 
-## Heading 2
-- Point 1
-- Point 2
-- Point 3
-```
+<details>
 
-{% hint style="info" %}
-If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
-{% endhint %}
+<summary>Bildirimler Ekranında Gecikme Yaşanır mı ve Sistem Nasıl İşler?</summary>
+
+Hayır, herhangi bir gecikme yaşanmaz. Sistemdeki bildirim altyapısı tamamen anlık (real-time) senkronizasyon mimarisine sahiptir. Birim yöneticisinin veya üst yönetimin panel üzerinden bir duyuruyu, görevi veya KPI hedefini paylaşması anında ilgili bildirim çalışan ekranında eş zamanlı olarak görüntülenir.
+
+</details>
+
+<details>
+
+<summary>Kullanıcılar Sekmesine Kimler Erişebilir ve Ne İşe Yarar?</summary>
+
+Kullanıcılar sekmesi yüksek yetki seviyesine sahip bir yönetim ekranıdır ve yalnızca İK ve Üst Yönetici (C-Level) hesaplarına görünür. Standart çalışanlar ve birim yöneticileri bu sekmeyi göremez. Bu ekrandan sisteme yeni personel ekleme, işten ayrılanları pasife alma ve kullanıcıların sistem rollerini (Admin, Yönetici, Personel) düzenleme işlemleri yapılır.
+
+</details>
+
