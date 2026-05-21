@@ -11,18 +11,6 @@ Dashboard ekranındaki tüm kartlar güncel verilerle anlık olarak yenilenir. E
 
 <details>
 
-<summary>Yönetici Anasayfa Ekranı Nasıl Görünür?</summary>
-
-**Yönetici Ana Sayfası (Dashboard)**; zorunlu eğitimleri, zorunlu sınavları, sisteme kayıtlı kullanıcı sayılarını ve tanımlı görevleri tek bir ekranda görüntülemenizi ve yönetmenizi sağlar.
-
-* Yönetici Paneli Özellikleri: Bu ekrandan kurum geneline atanan görev istatistiklerini grafikler üzerinden izleyebilir, toplam kullanıcı ve eğitim sayılarını makro düzeyde takip edebilirsiniz.
-
-<div data-full-width="false"><figure><img src="../.gitbook/assets/Ekran Resmi 2026-05-08 11.48.33.png" alt="" width="563"><figcaption></figcaption></figure></div>
-
-</details>
-
-<details>
-
 <summary>Kullanıcı Anasayfa Ekranı Nasıl Görünür?</summary>
 
 **Kullanıcı Ana Sayfası (Dashboard)**; size atanan zorunlu eğitimleri, zorunlu sınavları ve bireysel görevlerinizi tek bir ekrandan takip edip ilgili modüllere hızlıca giriş yapmanızı sağlar.
