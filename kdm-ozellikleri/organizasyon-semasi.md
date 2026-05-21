@@ -77,7 +77,7 @@ Görevler tanımlandıktan sonra, bu sorumlulukları ilgili pozisyonlara bağlam
 
 1. Organizasyon Şeması ekranına gidin.
 2. Yöneticisini düzenlemek istediğiniz birim kartının doğrudan üzerine tıklayın. (Kartın içine girdiğinizde detay paneli açılacaktır.)
-3. Açılan panelde `"Şema Kart Bilgileri"` başlığı altındaki Yönetici alanını bulun.
+3. Açılan panelde <kbd>"Şema Kart Bilgileri"</kbd> başlığı altındaki Yönetici alanını bulun.
    * _**Mevcut yöneticiyi değiştirmek için**:_ Mevcut ismin üzerine tıklayarak silin veya güncelleyin.
    * _**Yeni yönetici atamak için**:_ Arama alanına tıklayarak sistemde kayıtlı personeller arasından ilgili kişiyi seçin.
 4. Bilgileri girdikten sonra sağ altta bulunan "Kaydet" butonuna basarak işlemi tamamlayın.
@@ -87,12 +87,12 @@ Görevler tanımlandıktan sonra, bu sorumlulukları ilgili pozisyonlara bağlam
 Mevcut bir üst birime bağlı olarak çalışacak, operasyonel süreçlerin uzmanlaşmış bir dalını yönetecek yeni bir alt birim kurarken yöneticiyi doğrudan kuruluşu esnasında atayabilirsiniz:
 
 1. Şemada alt birim eklemek istediğiniz üst birimin altındaki <kbd>"+" (Ekle)</kbd>butonuna tıklayın.
-2. Açılan `"Alt Birim Ekle"` ekranında, hiyerarşinin doğru kurulduğundan emin olmak için _Üst Birim_ (Örn: _CEO_) bilgisini kontrol edin.
+2. Açılan <kbd>"Alt Birim Ekle"</kbd> ekranında, hiyerarşinin doğru kurulduğundan emin olmak için _Üst Birim_ (Örn: _CEO_) bilgisini kontrol edin.
 3. Yeni Birim başlığı altındaki form alanlarını doldurun:
    * Birim: Eklemek istediğiniz alt birimin adını (Örn: _Pazarlama, Yazılım_) seçin/yazın.
    * Yönetici: Bu alt birimden sorumlu olacak yöneticiyi "Ekle" butonuna basarak rehberden seçin.
    * Toplam Personel: İlgili birimde çalışması öngörülen veya mevcut personel sayısını girin.
-4. `Kaydet` butonuna bastığınızda, alt biriminiz yöneticisiyle birlikte otomatik olarak şemaya eklenecektir.
+4. <kbd>Kaydet</kbd> butonuna bastığınızda, alt biriminiz yöneticisiyle birlikte otomatik olarak şemaya eklenecektir.
 
 </details>
 
