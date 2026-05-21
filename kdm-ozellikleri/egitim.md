@@ -11,9 +11,9 @@ icon: graduation-cap
 
 <summary>Eğitim Modülü Nedir ?</summary>
 
-Eğitim Modülü; kurumunuza ait oryantasyon süreçlerini, teknik yol haritalarını ve zorunlu eğitimleri dijital ortama taşıyan bir Öğrenim Yönetim Sistemidir.
+**Eğitim Modülü;** kurumunuza ait oryantasyon süreçlerini, teknik yol haritalarını ve zorunlu eğitimleri dijital ortama taşıyan bir Öğrenim Yönetim Sistemidir.
 
-Bu modül sayesinde sadece video yüklemekle kalmaz, interaktif Canvas Düzenleyici ile özel ders tuvalerini tasarlayabilir, eğitimleri hiyerarşik kartlar şeklinde listeleyebilir ve çalışanların tamamlama oranlarını anlık analiz edebilirsiniz.
+Bu modül sayesinde sadece **video** yüklemekle kalmaz, **interaktif Canvas** Düzenleyici ile özel ders tuvalerini tasarlayabilir, eğitimleri hiyerarşik kartlar şeklinde listeleyebilir ve çalışanların tamamlama oranlarını anlık analiz edebilirsiniz.
 
 </details>
 
@@ -29,14 +29,6 @@ Bu modül sayesinde sadece video yüklemekle kalmaz, interaktif Canvas Düzenley
 6. **Eğitim Kartını Kontrol Edin:** Formu doldurup oluşturduğunuz eğitim, ana sayfaya gri renkli bir "Taslak" etiketiyle interaktif bir kart olarak eklenir.&#x20;
 7. **İçerik Düzenleme Ekranını Açın:** Oluşturulan taslak kartın altında yer alan "Düzenle" butonuna tıklayarak içerik sihirbazına geçiş yapın.&#x20;
 8. **Yeni Bölüm Ekleyin :** Açılan sayfanın altındaki İçerik alanında bulunan <kbd>"+ Yeni Bölüm Ekle"</kbd> butonuna basarak müfredat başlıklarınızı tanımlayın.
-
-</details>
-
-<details>
-
-<summary>Eğitim Tamamlama sertifikası Ne Zaman ve Nasıl Alınır?</summary>
-
-Sertifika alınabilmesi için ilgili eğitimin ilerleme durumunun **%100** olması zorunludur.
 
 </details>
 
@@ -64,6 +56,14 @@ Sertifika alınabilmesi için ilgili eğitimin ilerleme durumunun **%100** olmas
 <summary>Tamamlanmış Eğitimde İçerik Düzenleme Nasıl Yapılır?</summary>
 
 **Eğitimi Revize Moduna Çekin**: Listeden düzenlemek istediğiniz tamamlanmış eğitimi bulun. Kartın üzerinde yer alan <kbd>"Revize Et"</kbd> butonuna tıklayarak eğitimi geçici olarak canlı yayından çekin ve taslak durumuna getirin.
+
+</details>
+
+<details>
+
+<summary>Eğitim Tamamlama sertifikası Ne Zaman ve Nasıl Alınır?</summary>
+
+Sertifika alınabilmesi için ilgili eğitimin ilerleme durumunun **%100** olması zorunludur.
 
 </details>
 
