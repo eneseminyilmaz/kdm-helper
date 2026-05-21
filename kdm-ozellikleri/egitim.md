@@ -11,7 +11,7 @@ icon: graduation-cap
 
 <summary>Eğitim Modülü Nedir ?</summary>
 
-Eğitim Modülü; kurumunuza ait oryantasyon süreçlerini, teknik yol haritalarını ve zorunlu eğitimleri dijital ortama taşıyan bir Öğrenim Yönetim Sistemidir (LMS).
+Eğitim Modülü; kurumunuza ait oryantasyon süreçlerini, teknik yol haritalarını ve zorunlu eğitimleri dijital ortama taşıyan bir Öğrenim Yönetim Sistemidir.
 
 Bu modül sayesinde sadece video yüklemekle kalmaz, interaktif Canvas Düzenleyici ile özel ders tuvalerini tasarlayabilir, eğitimleri hiyerarşik kartlar şeklinde listeleyebilir ve çalışanların tamamlama oranlarını anlık analiz edebilirsiniz.
 
@@ -29,6 +29,14 @@ Bu modül sayesinde sadece video yüklemekle kalmaz, interaktif Canvas Düzenley
 6. **Eğitim Kartını Kontrol Edin:** Formu doldurup oluşturduğunuz eğitim, ana sayfaya gri renkli bir "Taslak" etiketiyle interaktif bir kart olarak eklenir.&#x20;
 7. **İçerik Düzenleme Ekranını Açın:** Oluşturulan taslak kartın altında yer alan "Düzenle" butonuna tıklayarak içerik sihirbazına geçiş yapın.&#x20;
 8. **Yeni Bölüm Ekleyin :** Açılan sayfanın altındaki İçerik alanında bulunan <kbd>"+ Yeni Bölüm Ekle"</kbd> butonuna basarak müfredat başlıklarınızı tanımlayın.
+
+</details>
+
+<details>
+
+<summary>Eğitim Tamamlama sertifikası Ne Zaman ve Nasıl Alınır?</summary>
+
+Sertifika alınabilmesi için ilgili eğitimin ilerleme durumunun **%100** olması zorunludur.
 
 </details>
 
@@ -90,8 +98,32 @@ Bu etiketler eğitimin erişim statüsünü gösterir:
 
 <details>
 
-<summary>Bir Çalışan Kendisine Atanan Eğitimlere Nereden Erişir?</summary>
+<summary>Kullanıcı eğitim kütüphanesindeki dersleri ileriye sararak veya atlayarak hızlıca bitirebilir mi?</summary>
+
+**Hayır,** eğitimlerde ders atlama veya ileri sarma seçeneği bulunmamaktadır. KDM platformunda eğitim içerikleri izlendikçe ve tamamlandıkça sırayla açılır. Sistemin gelişim takibini doğru yapabilmesi için her dersi ve  içeriğini tam süreyle takip etmeniz gerekmektedir.
+
+</details>
+
+<details>
+
+<summary>Kullanıcı bir eğitimi başarıyla tamamladığını nasıl anlar ve ilerleme durumunu nereden takip eder?</summary>
+
+Çalışan, eğitim kartlarının alt kısmında yer alan <kbd>"İlerleme"</kbd> çubuğundan anlık durumunu görebilir. Tüm dersler sırasıyla izleyip bitirildiğinde ilerleme çubuğu **%100** statüsüne ulaşır ve kartın üzerinde mavi renkli <kbd>"Sertifika"</kbd> etiketi belirir.
+
+</details>
+
+<details>
+
+<summary>Kullanıcı Kendisine Atanan Eğitimlere Nereden Erişir?</summary>
 
 Çalışanlar, kendileri için tanımlanan tüm aktif ve geçmiş içeriklere **"Eğitim Kütüphanem"** başlığı altından veya sağ tarafta bulunan mavi **"Kütüphaneye Git"** butonuna tıklayarak erişebilirler. Bu alanda toplam eğitim sayısı ve gelişim kartları listelenir.
+
+</details>
+
+<details>
+
+<summary>Kullanıcı yarıda bıraktığı bir eğitime daha sonra devam etmek istediğinde ne yapmalıdır?</summary>
+
+Devam edilmek istenen eğitimin kartı üzerinde bulunan lacivert renkli <kbd>"Aç"</kbd> butonuna tıklanması yeterlidir. Sistem kullanıcıyı doğrudan eğitimin içine yönlendirir ve en son nerede kaldıysa oradan güvenle devam etmesini sağlar.
 
 </details>
