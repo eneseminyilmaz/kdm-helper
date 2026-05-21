@@ -29,6 +29,7 @@ Bu modül sayesinde sadece **video** yüklemekle kalmaz, **interaktif Canvas** D
 6. **Eğitim Kartını Kontrol Edin:** Formu doldurup oluşturduğunuz eğitim, ana sayfaya gri renkli bir "Taslak" etiketiyle interaktif bir kart olarak eklenir.&#x20;
 7. **İçerik Düzenleme Ekranını Açın:** Oluşturulan taslak kartın altında yer alan "Düzenle" butonuna tıklayarak içerik sihirbazına geçiş yapın.&#x20;
 8. **Yeni Bölüm Ekleyin :** Açılan sayfanın altındaki İçerik alanında bulunan <kbd>"+ Yeni Bölüm Ekle"</kbd> butonuna basarak müfredat başlıklarınızı tanımlayın.
+9. Eğitim içeriğini tamamlamak için ["Eğitimde İçerik Ekleme Nasıl Yapılır?" kartını](egitim.md#egitimde-icerik-ekleme-nasil-yapilir) inceleyebilirisiniz.
 
 </details>
 
