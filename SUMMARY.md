@@ -13,7 +13,4 @@
 * [Eğitim](kdm-ozellikleri/egitim.md)
 * [Sınav](kdm-ozellikleri/sinav.md)
 * [Psikosim](kdm-ozellikleri/psikosim.md)
-
-## GENEL ÖZELLİKLER
-
-* [Genel Bilgiler](genel-ozellikler/markdown.md)
+* [Genel Bilgiler](kdm-ozellikleri/markdown.md)
