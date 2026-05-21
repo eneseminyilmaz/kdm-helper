@@ -33,7 +33,7 @@ Platform üzerindeki tüm metrikler **anlık ve gerçek zamanlı (real-time)** o
 
 <details>
 
-<summary>Dashboard Üzerinden Doğrudan Aksiyon Alınabilir mi?</summary>
+<summary>Dashboard Üzerinden Doğrudan Eğitim veya Sınav Oluşturma Ekranlarına Geçiş Yapılabilir mi?</summary>
 
 **Evet.** Dashboard, süreçleri hızlandıran dinamik bir kısayol merkezidir. Panel üzerinde listelenen aktif sınav veya zorunlu eğitim kartlarına tıklandığında, sistem kullanıcıyı menüler arasında dolaştırmadan doğrudan ilgili modülün uygulama sayfasına yönlendirir.
 
