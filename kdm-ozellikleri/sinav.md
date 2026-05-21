@@ -45,7 +45,7 @@ Sınav Kütüphanesi, tamamladığınız eğitimlerin ardından yetkinlikleriniz
 2. **Sınav Modülüne Giriş Yapın:** Sayfanın sağ üst köşesinde bulunan <kbd>"Sınav Modülü↗️"</kbd> butonuna tıklayarak ana yönetim paneline ulaşın.
 3. **Sınavlar Sekmesine Tıklayın:** Sol taraftaki menüde yer alan <kbd>"Sınavlar"</kbd> butonuna basarak eğitim oluşturma ve listeleme sayfasına geçiş yapın.
 4. **Sihirbazı Başlatın:** Filtreleme barının en sağında yer alan siyah renkli <kbd>"+ Yeni Sınav Oluştur"</kbd> butonuna tıklayın.
-5. **Sınav Açma:** Sınav oluşturma ekranına gelip sol ağaçtan ilgili eğitimi seçtiğinizde; sistem o eğitimin altındaki tüm bölümlerde ve derslerde biriken toplam soruları otomatik olarak karşınıza getirir.
+5. **Sınav Açma:** Sınav oluşturma ekranına gelip sol ağaçtan ilgili eğitimi seçtiğinizde; sistem o eğitimin altındaki tüm bölümlerde ve derslerde biriken toplam soruları otomatik olarak [soru bankasında](sinav.md#soru-bankasina-soru-nasil-eklenir) karşınıza getirir.
 6. **Otomatik Soru Dağılımı:** Ekrandaki ders başlıklarının yanında parantez içinde (Örn: _Ders 1: (15)_, _Ders 2: (4)_) yazan sayılar, o derslerin içeriği oluşturulurken ders başına eklenmiş olan ve Soru Bankası'nda biriken toplam soru miktarıdır. Sınav açıldığında, sistem bu havuzdaki toplam soruları kullanarak testi kurgular.
 7. **Zorluk Seviyesini Belirleyin:** "Zorluk belirle:" alanındaki kaydırıcıyı (slider) sağa veya sola hareket ettirerek sınavın genel zorluk derecesini (Kolay-Orta-Zor) seçin.
 8. &#x20;**Sınav Künyesini Doldurun:** "Sınav Ayarları:" başlığı altındaki "Sınav Adı" alanına sınavın resmi başlığını yazın ve "Sınav Tipi" açılır menüsünden ilgili sınav formatını seçin.
