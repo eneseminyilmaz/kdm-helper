@@ -61,9 +61,9 @@ Bu modül sayesinde sadece **video** yüklemekle kalmaz, **interaktif Canvas** D
 
 <details>
 
-<summary>Eğitim Tamamlama sertifikası Ne Zaman ve Nasıl Alınır?</summary>
+<summary>Eğitim Tamamlama Sertifikası Ne Zaman ve Nasıl Alınır?</summary>
 
-Sertifika alınabilmesi için ilgili eğitimin ilerleme durumunun **%100** olması zorunludur.
+Tüm eğitim tamamlandığında  **eğitim%100** tamamlandığında ve mavi renkli <kbd>"Sertifika"</kbd> butonuna aktif hale gelir. Kullanıcı bu butona tıklayarak sınav başarı sertifikasını anında görüntüleyebilir ve bilgisayarına indirebilir.
 
 </details>
 
@@ -98,7 +98,7 @@ Bu etiketler eğitimin erişim statüsünü gösterir:
 
 <details>
 
-<summary>Kullanıcı eğitim kütüphanesindeki dersleri ileriye sararak veya atlayarak hızlıca bitirebilir mi?</summary>
+<summary>Kullanıcı Eğitim Kütüphanesindeki Dersleri İleriye Sararak veya Atlayarak Hızlıca Bitirebilir mi?</summary>
 
 **Hayır,** eğitimlerde ders atlama veya ileri sarma seçeneği bulunmamaktadır. KDM platformunda eğitim içerikleri izlendikçe ve tamamlandıkça sırayla açılır. Sistemin gelişim takibini doğru yapabilmesi için her dersi ve  içeriğini tam süreyle takip etmeniz gerekmektedir.
 
@@ -122,7 +122,7 @@ Bu etiketler eğitimin erişim statüsünü gösterir:
 
 <details>
 
-<summary>Kullanıcı yarıda bıraktığı bir eğitime daha sonra devam etmek istediğinde ne yapmalıdır?</summary>
+<summary>Kullanıcı Yarıda Bıraktığı Bir Eğitime Daha Sonra Devam Etmek İstediğinde Ne Yapmalıdır?</summary>
 
 Devam edilmek istenen eğitimin kartı üzerinde bulunan lacivert renkli <kbd>"Aç"</kbd> butonuna tıklanması yeterlidir. Sistem kullanıcıyı doğrudan eğitimin içine yönlendirir ve en son nerede kaldıysa oradan güvenle devam etmesini sağlar.
 
