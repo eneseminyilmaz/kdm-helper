@@ -92,7 +92,7 @@ Burası yeni eğitimler keşfettiğiniz, kaldığınız derslere devam ettiğini
 * Kapalı / Atandı: Eğitime henüz başlamadığınızı veya içeriğin yeni tanımlandığını gösterir.
 * İlerleme Çubuğu (%): Eğitimin yüzde kaçını tamamladığınızı anlık olarak gösterir. Yarıda bırakıp çıksanız bile, sisteme tekrar girdiğinizde kaldığınız dakikadan ve dersten kesintisiz devam edebilirsiniz.
 
-&#x20;3\.  **Derse Giriş ve İzleme Ekranı:**&#x130;zlemek istediğiniz eğitimin altındaki lacivert renkli `"Aç"` butonuna tıklayarak eğitim paneline giriş yapabilirsiniz.
+3. **Derse Giriş ve İzleme Ekranı:**&#x130;zlemek istediğiniz eğitimin altındaki lacivert renkli `"Aç"`   butonuna tıklayarak eğitim paneline giriş yapabilirsiniz.
 
 * Müfredat içerisindeki dersler türüne göre iki şekilde karşınıza çıkar:
 * Video Dersler: Doğrudan video oynatıcı üzerinden eğitim videolarını izleyerek ilerlersiniz.
@@ -139,7 +139,7 @@ Bu etiketler eğitimin erişim statüsünü gösterir:
 
 <summary>Kullanıcı Kendisine Atanan Eğitimlere Nereden Erişir?</summary>
 
-Çalışanlar, kendileri için tanımlanan tüm aktif ve geçmiş içeriklere **"Eğitim Kütüphanem"** başlığı altından veya sağ tarafta bulunan mavi **"Kütüphaneye Git"** butonuna tıklayarak erişebilirler. Bu alanda toplam eğitim sayısı ve gelişim kartları listelenir.
+Kullanıcılar kendileri için tanımlanan tüm aktif ve geçmiş içeriklere **"Eğitim Kütüphanem"** başlığı altından veya sağ tarafta bulunan mavi **"Kütüphaneye Git"** butonuna tıklayarak erişebilirler. Bu alanda toplam eğitim sayısı ve gelişim kartları listelenir.
 
 </details>
 
@@ -147,6 +147,6 @@ Bu etiketler eğitimin erişim statüsünü gösterir:
 
 <summary>Kullanıcı Yarıda Bıraktığı Bir Eğitime Daha Sonra Devam Etmek İstediğinde Ne Yapmalıdır?</summary>
 
-Devam edilmek istenen eğitimin kartı üzerinde bulunan lacivert renkli <kbd>"Aç"</kbd> butonuna tıklanması yeterlidir. Sistem kullanıcıyı doğrudan eğitimin içine yönlendirir ve en son nerede kaldıysa oradan güvenle devam etmesini sağlar.
+Devam edilmek istenen eğitimin kartı üzerinde bulunan lacivert renkli <kbd>"Aç"</kbd>butonuna tıklanması yeterlidir. Sistem kullanıcıyı doğrudan eğitimin içine yönlendirir ve en son nerede kaldıysa oradan güvenle devam etmesini sağlar.
 
 </details>
