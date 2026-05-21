@@ -13,7 +13,7 @@ AI Insight, yapay zeka destekli analiz motoru ile birimlerin kadro yapısını, 
 
 <summary>Hesap Erişimi ve Yetki Tanımlamaları Hakkında</summary>
 
-AI Insight modülü, sunduğu verilerin hassasiyeti ve stratejik önemi nedeniyle sadece yetkilendirilmiş kullanıcıların (yöneticiler ve ilgili departman sorumluları) erişimine açıktır.
+AI Insight modülü, sunduğu verilerin hassasiyeti ve stratejik önemi nedeniyle sadece yetkilendirilmiş kullanıcıların (**yöneticiler ve ilgili departman sorumluları)** **erişimine açıktır.**
 
 </details>
 
@@ -54,8 +54,9 @@ Eğer bu modülün sizin görev tanımınız için gerekli olduğunu düşünüy
 
 <summary>Birim İçi Pozisyon Matrisi Görüntülemesi Nasıl Yapılır?</summary>
 
-1. **Birim Seçimi:** Sayfanın orta kısmında yer alan <kbd>**"Birim"**</kbd> ikonuna (<kbd>🏢</kbd>) tıklayın.
-2. **Hiyerarşik Gezinme**: Açılan menü üzerinden:
+1. **AI Insight Modülüne Girin:** Sol menüde yer alan AI Insight sekmesine tıklayın.
+2. **Birim Seçimi:** Sayfanın orta kısmında yer alan <kbd>**"Birim"**</kbd> ikonuna (<kbd>🏢</kbd>) tıklayın.
+3. **Hiyerarşik Gezinme**: Açılan menü üzerinden:
 
 * Kendi Biriminiz: Mevcut biriminizin genel performans ve iş yükü özetini inceleyin.
 * Alt Birimler: Bağlı olduğunuz veya sorumluluğunuzdaki alt birimlerin detaylarına inerek, hangi departmanların desteklenmesi veya yeniden yapılandırılması gerektiğini görün.
