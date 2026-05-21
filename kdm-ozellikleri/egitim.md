@@ -62,14 +62,6 @@ Bu modül sayesinde sadece **video** yüklemekle kalmaz, **interaktif Canvas** D
 
 <details>
 
-<summary>Eğitim Tamamlama Sertifikası Ne Zaman ve Nasıl Alınır?</summary>
-
-Eğitim %100 tamamlandığında, mavi renkli "Sertifika" butonu aktif hale gelir. Kullanıcı bu butona tıklayarak başarı sertifikasını anında görüntüleyebilir ve bilgisayarına indirebilir.
-
-</details>
-
-<details>
-
 <summary>Eğitim Kütüphanesi Nedir?</summary>
 
 **Eğitim Kütüphanesi;** kurumunuzun sizin için hazırladığı tüm oryantasyon programlarını, teknik eğitimleri, kişisel gelişim yol haritalarını ve dökümanları bulabileceğiniz size özel dijital akademidir.
@@ -97,6 +89,14 @@ Burası yeni eğitimler keşfettiğiniz, kaldığınız derslere devam ettiğini
 * Müfredat içerisindeki dersler türüne göre iki şekilde karşınıza çıkar:
 * Video Dersler: Doğrudan video oynatıcı üzerinden eğitim videolarını izleyerek ilerlersiniz.
 * Canvas Dersleri: Görsel, metin, ses ve özel bilgi kutularından oluşan zengin ve interaktif bir ders tuvali üzerinden okuyarak ilerlersiniz.
+
+</details>
+
+<details>
+
+<summary>Eğitim Tamamlama Sertifikası Ne Zaman ve Nasıl Alınır?</summary>
+
+Eğitim %100 tamamlandığında, mavi renkli "Sertifika" butonu aktif hale gelir. Kullanıcı bu butona tıklayarak başarı sertifikasını anında görüntüleyebilir ve bilgisayarına indirebilir.
 
 </details>
 
@@ -131,7 +131,7 @@ Bu etiketler eğitimin erişim statüsünü gösterir:
 
 <summary>Kullanıcı bir eğitimi başarıyla tamamladığını nasıl anlar ve ilerleme durumunu nereden takip eder?</summary>
 
-Çalışan, eğitim kartlarının alt kısmında yer alan <kbd>"İlerleme"</kbd> çubuğundan anlık durumunu görebilir. Tüm dersler sırasıyla izleyip bitirildiğinde ilerleme çubuğu **%100** statüsüne ulaşır ve kartın üzerinde mavi renkli <kbd>"Sertifika"</kbd> etiketi belirir.
+Kullanıcı, eğitim kartlarının alt kısmında yer alan <kbd>"İlerleme"</kbd> çubuğundan anlık durumunu görebilir. Tüm dersler sırasıyla izleyip bitirildiğinde ilerleme çubuğu **%100** statüsüne ulaşır ve kartın üzerinde mavi renkli <kbd>"Sertifika"</kbd> etiketi belirir.
 
 </details>
 
