@@ -25,26 +25,40 @@ Sınav Kütüphanesi, tamamladığınız eğitimlerin ardından yetkinlikleriniz
 
 <details>
 
+<summary>Soru Bankasına Soru Nasıl Eklenir?</summary>
+
+1. **Sorular Sekmesini Seçin:** Sol menüde yer alan <kbd>"Sorular"</kbd> sekmesine tıklayarak platformdaki soru havuzuna ulaşın.
+2. **Sihirbazı Başlatın:** Ekranın sağ üst köşesinde yer alan siyah renkli <kbd>"+ Yeni Soru Oluştur"</kbd> butonuna tıklayın.
+3. **İlgili Dersi/Kaynağı Seçin (Kritik Adım)**: Soruları görüntülemek veya yeni soru eklemek için öncelikle ekranın sol/orta kısmında bulunan <kbd>"Kaynaklar"</kbd> ağacından sorunun ait olduğu ilgili dersi seçin. _(Örn: U2 01 U TST 001 - Test Mühendisliği Yol Haritası)_.
+4. **Zorluk Seviyesini Belirleyin:** Açılan formun en üstünde bulunan kaydırıcı (slider) üzerinden sorunun zorluğunu Kolay, Orta veya Zor (1-5 arası derece) olarak ayarlayın.
+5. **Dil ve Soru Metnini Girin:** "Dil" seçimini yapın, ardından zengin metin editörünü kullanarak "Soru:" alanına sorunuzun gövdesini yazın. _(İhtiyaç halinde "Paragraf Ekle" butonuyla soruya ön metin ekleyebilirsiniz)_.
+6. **Seçenekleri (Şıkları) Doldurun:** Cevap - A, B, C, D alanlarına ilgili şıkların metinlerini yazın. Beşinci bir şık eklemek isterseniz "Cevap - E" yanındaki mavi butonu aktif hale getirip içeriğini doldurun. _(Şıkların içine görsel eklemek için editörlerdeki resim ikonunu kullanabilirsiniz)_.
+7. **Doğru Cevabı Seçin ve Mühürleyin:** "Doğru Cevap" başlığı altındaki A, B, C, D, E harflerinden hangisi doğruysa ona tıklayarak işaretleyin, ardından en alttaki <kbd>"Soruyu Kaydet"</kbd> butonuna basarak soruyu havuza ekleyin.
+
+</details>
+
+<details>
+
 <summary>Nasıl Sınav Oluşturulur?</summary>
 
 1. **Sınav Menüsüne Girin:** Sol menüde yer alan <kbd>"Sınav"</kbd> sekmesine tıklayın.
 2. **Sınav Modülüne Giriş Yapın:** Sayfanın sağ üst köşesinde bulunan <kbd>"Sınav Modülü↗️"</kbd> butonuna tıklayarak ana yönetim paneline ulaşın.
 3. **Sınavlar Sekmesine Tıklayın:** Sol taraftaki menüde yer alan <kbd>"Sınavlar"</kbd> butonuna basarak eğitim oluşturma ve listeleme sayfasına geçiş yapın.
 4. **Sihirbazı Başlatın:** Filtreleme barının en sağında yer alan siyah renkli <kbd>"+ Yeni Sınav Oluştur"</kbd> butonuna tıklayın.
-5. Soru Bankası&#x20;
+5. **Sınav Açma:** Sınav oluşturma ekranına gelip sol ağaçtan ilgili eğitimi seçtiğinizde; sistem o eğitimin altındaki tüm bölümlerde ve derslerde biriken toplam soruları otomatik olarak karşınıza getirir.
+6. **Otomatik Soru Dağılımı:** Ekrandaki ders başlıklarının yanında parantez içinde (Örn: _Ders 1: (15)_, _Ders 2: (4)_) yazan sayılar, o derslerin içeriği oluşturulurken ders başına eklenmiş olan ve Soru Bankası'nda biriken toplam soru miktarıdır. Sınav açıldığında, sistem bu havuzdaki toplam soruları kullanarak testi kurgular.
+7. **Zorluk Seviyesini Belirleyin:** "Zorluk belirle:" alanındaki kaydırıcıyı (slider) sağa veya sola hareket ettirerek sınavın genel zorluk derecesini (Kolay-Orta-Zor) seçin.
+8. &#x20;**Sınav Künyesini Doldurun:** "Sınav Ayarları:" başlığı altındaki "Sınav Adı" alanına sınavın resmi başlığını yazın ve "Sınav Tipi" açılır menüsünden ilgili sınav formatını seçin.
+9. **Seçenek Yapısını Ayarlayın:** Sınav sorularının kaç şıklı olacağını belirlemek için "Şık Sayısı: 4" (veya 5) anahtarını açık konuma getirin.&#x20;
+10. **Sınavı Tamamlayın ve Kaydedin:** Formun en altında yer alan siyah renkli <kbd>"Sınavı Oluştur"</kbd> butonuna basarak sınav şablonunu başarıyla sisteme kaydedin.
 
 </details>
 
 <details>
 
-<summary>Soru Bankasına Soru Nasıl Eklenir?</summary>
+<summary>Sınav Tamamlama Sertifikası Ne Zaman ve Nasıl Alınır?</summary>
 
-1. **Sorular Sekmesini Seçin:** Sol menüde yer alan <kbd>"Sorular"</kbd> sekmesine tıklayarak platformdaki soru havuzuna ulaşın.
-2. **Sihirbazı Başlatın:** Ekranın sağ üst köşesinde yer alan siyah renkli <kbd>"+ Yeni Soru Oluştur"</kbd> butonuna tıklayın.
-3. **Zorluk Seviyesini Belirleyin:** Açılan formun en üstünde bulunan kaydırıcı (slider) üzerinden sorunun zorluğunu Kolay, Orta veya Zor (1-5 arası derece) olarak ayarlayın.
-4. **Dil ve Soru Metnini Girin:** "Dil" seçimini yapın, ardından zengin metin editörünü kullanarak "Soru:" alanına sorunuzun gövdesini yazın. _(İhtiyaç halinde "Paragraf Ekle" butonuyla soruya ön metin ekleyebilirsiniz)_.
-5. **Seçenekleri (Şıkları) Doldurun:** Cevap - A, B, C, D alanlarına ilgili şıkların metinlerini yazın. Beşinci bir şık eklemek isterseniz "Cevap - E" yanındaki mavi butonu aktif hale getirip içeriğini doldurun. _(Şıkların içine görsel eklemek için editörlerdeki resim ikonunu kullanabilirsiniz)_.
-6. **Doğru Cevabı Seçin ve Mühürleyin:** "Doğru Cevap" başlığı altındaki A, B, C, D, E harflerinden hangisi doğruysa ona tıklayarak işaretleyin, ardından en alttaki <kbd>"Soruyu Kaydet"</kbd> butonuna basarak soruyu havuza ekleyin.
+Tüm sorular yanıtlanıp **sınav %100** tamamlandığında ve baraj puanı geçildiğinde, mavi renkli <kbd>"Sertifika"</kbd> butonuna aktif hale gelir. Kullanıcı bu butona tıklayarak sınav başarı sertifikasını anında görüntüleyebilir ve bilgisayarına indirebilir.
 
 </details>
 
@@ -77,9 +91,9 @@ Kullanıcı sınav kartlarının alt kısmında yer alan "İlerleme" çubuğunda
 
 <details>
 
-<summary>Sınav Tamamlama Sertifikası Ne Zaman ve Nasıl Alınır?</summary>
+<summary>Sistem Üzerinde Hazırlanan Sınav Sorularının veya Eğitim İçeriklerine Atanabilecek Soru Sayısının Bir Limiti var mıdır?</summary>
 
-Tüm sorular yanıtlanıp **sınav %100** tamamlandığında ve baraj puanı geçildiğinde, mavi renkli <kbd>"Sertifika"</kbd> butonuna aktif hale gelir. Kullanıcı bu butona tıklayarak sınav başarı sertifikasını anında görüntüleyebilir ve bilgisayarına indirebilir.
+**Vardır.**&#x45;ğitim modülünde kurgulanan her bir eğitim sayfası için maksimum 2 adet sınav sorusu atanabilir. Çalışanların öğrenme süreçlerini optimize etmek ve her sayfadaki bilgi yükünü dengeli ölçmek adına bu şekilde bir yapısal sınırlandırma getirilmiştir.
 
 </details>
 
