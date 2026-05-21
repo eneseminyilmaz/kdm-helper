@@ -129,7 +129,7 @@ Bu etiketler eğitimin erişim statüsünü gösterir:
 
 <details>
 
-<summary>Kullanıcı bir eğitimi başarıyla tamamladığını nasıl anlar ve ilerleme durumunu nereden takip eder?</summary>
+<summary>Kullanıcı Bir Eğitimi Başarıyla Tamamladığını Nasıl Anlar ve İlerleme Durumunu Nereden Takip Eder?</summary>
 
 Kullanıcı, eğitim kartlarının alt kısmında yer alan <kbd>"İlerleme"</kbd> çubuğundan anlık durumunu görebilir. Tüm dersler sırasıyla izleyip bitirildiğinde ilerleme çubuğu **%100** statüsüne ulaşır ve kartın üzerinde mavi renkli <kbd>"Sertifika"</kbd> etiketi belirir.
 
