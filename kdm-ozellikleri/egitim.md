@@ -39,7 +39,7 @@ Bu modül sayesinde sadece **video** yüklemekle kalmaz, **interaktif Canvas** D
 
 Öncelilkle ["Nasıl Eğitim Oluşturulur?" kartını ](egitim.md#nasil-egitim-olusturulur)tamamlamanız lazım.
 
-1. **Ders Ekleme Sihirbazını Başlatın:** İçerik paneli altında oluşturduğunuz ilgili bölümün içindeki kesikli çizgilerle belirlenmiş <kbd>"+ Ders Ekle"</kbd> butonuna tıklayın.
+1. **Ders Ekleme Yapılması** İçerik paneli altında oluşturduğunuz ilgili bölümün içindeki kesikli çizgilerle belirlenmiş <kbd>"+ Ders Ekle"</kbd> butonuna tıklayın.
 2. **Temel Ders Bilgilerini Girin:** Açılan pop-up penceresinde "Ders Adı" alanını zorunlu olarak doldurun.
 3. **Ders Türünü Seçin:** Eğitimin metodolojisine göre şu iki seçenekten birini belirleyip <kbd>"İleri"</kbd> butonuna basın:
    * Canvas: Metin, resim ve etkileşimli içerikler kurgulamak için seçilir.
@@ -48,7 +48,7 @@ Bu modül sayesinde sadece **video** yüklemekle kalmaz, **interaktif Canvas** D
 5. **İnteraktif İçeriği İnşa Edin:** Açılan gelişmiş karanlık mod editöründe (İçerik Düzenleyici) sol taraftaki "Eleman Ekle" panelini kullanın. Ders sayfasına sürükle-bırak yöntemiyle şu bileşenleri ekleyebilirsiniz:
    * Başlık, Metin, Görsel, Ses, Şekil, Ayırıcı, Arkaplan ve Bilgi Kutusu.
 6. **Önizleme ile Kontrol Edin:** Tasarımınızı tuval üzerinde tamamladıktan sonra, sağ üst köşede yer alan beyaz renkli <kbd>"Önizle"</kbd> butonuna tıklayın. Bu aksiyon, dersin çalışanlar tarafından nasıl görüntüleneceğini ve interaktif öğelerin çalışıp çalışmadığını test etmenizi sağlar.
-7. **Mühürleyin ve Kaydedin:** Tasarımınızı orta alandaki beyaz çalışma tuvali üzerinde tamamladıktan sonra, sağ üst köşede yer alan mavi renkli <kbd>"✓ Kaydet"</kbd> butonuna basarak ders içeriğini canlıya alabilir ve önizleme ile&#x20;
+7. **Tamamlayın ve Kaydedin:** Tasarımınızı orta alandaki beyaz çalışma tuvali üzerinde tamamladıktan sonra, sağ üst köşede yer alan mavi renkli <kbd>"✓ Kaydet"</kbd> butonuna basarak ders içeriğini yayına alınabilir.
 
 </details>
 
@@ -56,7 +56,7 @@ Bu modül sayesinde sadece **video** yüklemekle kalmaz, **interaktif Canvas** D
 
 <summary>Tamamlanmış Eğitimde İçerik Düzenleme Nasıl Yapılır?</summary>
 
-**Eğitimi Revize Moduna Çekin**: Listeden düzenlemek istediğiniz tamamlanmış eğitimi bulun. Kartın üzerinde yer alan <kbd>"Revize Et"</kbd> butonuna tıklayarak eğitimi geçici olarak canlı yayından çekin ve taslak durumuna getirin.
+**Eğitimi Revize Moduna Çekin:** Listeden düzenlemek istediğiniz tamamlanmış eğitimi bulun. Kartın üzerinde yer alan **"Revize Et"** butonuna tıklayarak eğitimi yönetici panelinde "Taslak" durumuna getirin. Eğitim arka planda taslak halinde düzenlenirken, çalışanlar için ön yüzde canlıda kalmaya devam eder. Yapılan güncellemeler eğitim yeniden yayınlandığı an canlıya yansır.
 
 </details>
 
@@ -64,17 +64,39 @@ Bu modül sayesinde sadece **video** yüklemekle kalmaz, **interaktif Canvas** D
 
 <summary>Eğitim Tamamlama Sertifikası Ne Zaman ve Nasıl Alınır?</summary>
 
-Tüm eğitim tamamlandığında  **eğitim%100** tamamlandığında ve mavi renkli <kbd>"Sertifika"</kbd> butonuna aktif hale gelir. Kullanıcı bu butona tıklayarak sınav başarı sertifikasını anında görüntüleyebilir ve bilgisayarına indirebilir.
+Eğitim %100 tamamlandığında, mavi renkli "Sertifika" butonu aktif hale gelir. Kullanıcı bu butona tıklayarak başarı sertifikasını anında görüntüleyebilir ve bilgisayarına indirebilir.
 
 </details>
 
 <details>
 
-<summary>Eğitim Kütüphanesi Nedir ve Nasıl Kullanılır?</summary>
+<summary>Eğitim Kütüphanesi Nedir?</summary>
 
-Eğitim Kütüphanesi; kurumunuzun sizin için hazırladığı tüm oryantasyon programlarını, teknik eğitimleri, kişisel gelişim yol haritalarını ve dökümanları bulabileceğiniz size özel dijital akademidir.
+**Eğitim Kütüphanesi;** kurumunuzun sizin için hazırladığı tüm oryantasyon programlarını, teknik eğitimleri, kişisel gelişim yol haritalarını ve dökümanları bulabileceğiniz size özel dijital akademidir.
 
 Burası yeni eğitimler keşfettiğiniz, kaldığınız derslere devam ettiğiniz ve tamamladığınız eğitimlerin durumunu takip ettiğiniz kişisel gelişim merkezinizdir.
+
+</details>
+
+<details>
+
+<summary>Eğitim Kütüphanesi Nasıl Kullanılır?</summary>
+
+1. &#x20;**Eğitim Kartlarını İnceleme ve Arama:**&#x4B;ütüphane sayfasına girdiğinizde, size açık olan tüm eğitimler interaktif birer Eğitim Kartı olarak listelenir.
+
+* Kartların üzerinde eğitimin adı, kurumsal kodu, toplam süresi (Örn: _2 dakika_) ve içerik dili yer alır.
+* Eğitimin hemen altında, içeriğin size ne katacağını özetleyen kısa bir açıklama metni bulunur.
+
+2. **İlerleme Durumu ve Eğitim Etiketleri:**&#x45;ğitim kartlarının üzerinde, süreçteki durumunuzu gösteren renkli etiketler ve ilerleme çubukları bulunur:
+
+* Kapalı / Atandı: Eğitime henüz başlamadığınızı veya içeriğin yeni tanımlandığını gösterir.
+* İlerleme Çubuğu (%): Eğitimin yüzde kaçını tamamladığınızı anlık olarak gösterir. Yarıda bırakıp çıksanız bile, sisteme tekrar girdiğinizde kaldığınız dakikadan ve dersten kesintisiz devam edebilirsiniz.
+
+&#x20;3\.  **Derse Giriş ve İzleme Ekranı:**&#x130;zlemek istediğiniz eğitimin altındaki lacivert renkli `"Aç"` butonuna tıklayarak eğitim paneline giriş yapabilirsiniz.
+
+* Müfredat içerisindeki dersler türüne göre iki şekilde karşınıza çıkar:
+* Video Dersler: Doğrudan video oynatıcı üzerinden eğitim videolarını izleyerek ilerlersiniz.
+* Canvas Dersleri: Görsel, metin, ses ve özel bilgi kutularından oluşan zengin ve interaktif bir ders tuvali üzerinden okuyarak ilerlersiniz.
 
 </details>
 
