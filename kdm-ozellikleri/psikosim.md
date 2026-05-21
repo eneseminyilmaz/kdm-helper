@@ -19,7 +19,7 @@ Sadece en üst düzey yöneticilerin erişebildiği;Üst yönetim tarafından be
 
 <details>
 
-<summary>Nasıl psikosim testi oluşturulur?</summary>
+<summary>Nasıl Psikosim Testi oluşturulur?</summary>
 
 1. **Yetkili Hesap Kontrolü:**&#x50;sikosim modülü hassas veriler barındırdığı için birim yöneticilerine ve standart çalışanlara tamamen kapalıdır. Test oluşturma ekranına erişmek için sisteme mutlaka Üst Yönetici veya İnsan Kaynakları Admin yetkilendirmesine sahip bir hesapla giriş yapın.
 2. **Psikosim Modülüne Giriş Yapın:** Açılan yönetim panelinden <kbd>"Sınav Oluştur"</kbd> formuna ulaşın.

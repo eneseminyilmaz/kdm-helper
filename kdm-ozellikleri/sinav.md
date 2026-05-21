@@ -69,7 +69,7 @@ Bu etiketler sınavın uygulanma metodolojisini belirtir:
 
 <details>
 
-<summary>Kullanıcı bir sınavı başarıyla tamamladığını nasıl anlar ve ilerleme/başarı durumunu nereden takip eder?</summary>
+<summary>Kullanıcı Bir Sınavı Başarıyla Tamamladığını Nasıl Anlar ve İlerleme/Başarı Durumunu Nereden Takip Eder?</summary>
 
 Kullanıcı sınav kartlarının alt kısmında yer alan "İlerleme" çubuğundan anlık durumunu görebilir. Sınav tamamlandığında bu çubuk %100 statüsüne ulaşır. Ayrıca, sınav tamamlandığında kartın üzerinde mavi renkli <kbd>"Sertifika"</kbd> butonu belirir.
 
