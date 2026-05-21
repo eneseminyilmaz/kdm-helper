@@ -21,7 +21,7 @@ AI Insight modülü, sunduğu verilerin hassasiyeti ve stratejik önemi nedeniyl
 
 <summary>AI Insight Nasıl Kullanılır?</summary>
 
-1. **AI Insight Modülüne Girin:** Sol menüde yer alan AI Insight sekmesine tıklayın.
+1. **AI Insight Modülüne Girin:** Sol menüde yer alan "AI Insight" sekmesine tıklayın.
 2. **Birim Seçimi:** Sayfanın orta kısmında yer alan <kbd>**"Birim"**</kbd> ikonuna (<kbd>🏢</kbd>) tıklayın.
 3. **Hiyerarşik Gezinme**: Açılan menü üzerinden:
 
