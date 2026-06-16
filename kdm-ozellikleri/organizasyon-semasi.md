@@ -159,3 +159,43 @@ Mevcut bir üst birime bağlı olarak çalışacak, operasyonel süreçlerin uzm
 * **Kaydet:** Formun altındaki <kbd>"Kaydet"</kbd> butonuna bastığınızda görev personelin takvimine işlenir ve ana Görev Takvimi modülünde de otomatik olarak listelenir.
 
 </details>
+
+<details>
+
+<summary>Organizasyon Şemasında Bulunan İletişim Rehberi Nedir?</summary>
+
+İletişim Rehberi; biriminizin, kurum içi departmanların ve etkileşimde bulunduğunuz tüm dış paydaşların/kuruluşların **güncel iletişim bilgilerini** (e-posta, telefon, departman vb.) tek bir merkezi platformda toplayan dijital bir dizindir.
+
+</details>
+
+<details>
+
+<summary>Organizasyon Şemasında Bulunan İletişim Rehberi  Nasıl Kullanılır?</summary>
+
+1. **Organizasyon Şemasına Girin**:Sol menüde yer alan <kbd>"Organizasyon Şeması"</kbd> sekmesine tıklayın.
+2. **İlgili Birimi / Departmanı Seçin:**&#x48;iyerarşik şema üzerinden detaylarını veya iletişim bilgilerini görmek istediğiniz birimin kutucuğuna tıklayın.Kartın içine girdiğinizde detay paneli açılacaktır.
+3. **İletişim Rehberi'ni Açın:**<kbd>"Yardımcı Araçlar"</kbd> başlığı altındaki İletişim Rehberi alanını bulun.
+4. **İletişim Bilgilerini Arayın veya Yeni Kişi Ekleyin**: Açılan rehber panelinde üst kısımda yer alan arama çubuğunu kullanarak kişi veya kurum adına göre hızlıca arama yapabilir, sağ tarafta bulunan <kbd>"+ Ekle"</kbd> butonuyla listeye yeni iletişim bilgileri ekleyebilirsiniz.
+5. **Güvenlik ve Silme Yetkisi:** Rehberdeki mevcut iletişim kayıtları üzerinde güvenlik ve veri bütünlüğünü korumak amacıyla silme işlemi yalnızca Birim Yöneticisi tarafından gerçekleştirilebilir. Diğer personeller yalnızca görüntüleme, arama ve ekleme yetkisine sahiptir.
+
+</details>
+
+<details>
+
+<summary>Organizasyon Şemasında Bulunan Kurumsal Hafıza Nedir?</summary>
+
+Kurumsal Hafıza; biriminizin veya departmanın özel, günlük operasyonlarda ihtiyaç duyulan tüm kritik bilgilerin, süreç dökümanlarının, kılavuzların ve operasyonel notların merkezi olarak depolandığı dijital bir bilgi bankasıdır.
+
+</details>
+
+<details>
+
+<summary>Organizasyon Şemasında Bulunan Kurumsal Hafıza Nasıl Kullanılır?</summary>
+
+* **Organizasyon Şemasına Girin**:Sol menüde yer alan <kbd>"Organizasyon Şeması"</kbd> sekmesine tıklayın.
+* **İlgili Birimi / Departmanı Seçin:**&#x48;iyerarşik şema üzerinden detaylarını veya iletişim bilgilerini görmek istediğiniz birimin kutucuğuna tıklayın.Kartın içine girdiğinizde detay paneli açılacaktır.
+* **Kurumsal Hafıza'yı Açın:**<kbd>"Yardımcı Araçlar"</kbd> başlığı altındaki İletişim Rehberi alanını bulun.
+* **Kurumsal Bilgi Arayın veya Bilgi Ekleyin**: Açılan rehber panelinde üst kısımda yer alan arama çubuğunu kullanarak kişi veya kurum adına göre hızlıca arama yapabilir, sağ tarafta bulunan <kbd>"+ Ekle"</kbd> butonuyla listeye yeni iletişim bilgileri ekleyebilirsiniz.
+* **Güvenlik ve Silme Yetkisi:** Kritik bilgilerin ve dökümanlarının güvenlik ve veri bütünlüğünü korumak amacıyla silme işlemi yalnızca Birim Yöneticisi tarafından gerçekleştirilebilir. Diğer personeller yalnızca görüntüleme, arama ve ekleme yetkisine sahiptir.
+
+</details>
