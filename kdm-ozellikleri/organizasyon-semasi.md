@@ -184,7 +184,7 @@ Mevcut bir üst birime bağlı olarak çalışacak, operasyonel süreçlerin uzm
 
 <summary>Organizasyon Şemasında Bulunan Kurumsal Hafıza Nedir?</summary>
 
-Kurumsal Hafıza; biriminizin veya departmanın özel, günlük operasyonlarda ihtiyaç duyulan tüm kritik bilgilerin, süreç dökümanlarının, kılavuzların ve operasyonel notların merkezi olarak depolandığı dijital bir bilgi bankasıdır.
+Kurumsal Hafıza; biriminizin veya departmanın özel, günlük operasyonlarda ihtiyaç duyulan tüm **kritik bilgilerin**, süreç dökümanlarının, kılavuzların ve operasyonel notların merkezi olarak depolandığı dijital bir bilgi bankasıdır.
 
 </details>
 
